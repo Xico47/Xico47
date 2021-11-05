@@ -1,5 +1,6 @@
-My name is **Francisco Santos** and I'm a High School student in Portugal. These are some of the technologies I use in my classes:
+My name is **Francisco Santos** and I'm a High School student in Portugal. My portfolio : https://xico47.github.io/ 
 
+These are some of the technologies I use in my classes:
 #### Programming Languages
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 
